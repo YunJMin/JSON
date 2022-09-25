@@ -1,5 +1,6 @@
 # **1. REST API의 탄생**
 REST는 Representational State Transfer라는 용어의 약자
+
 # **2. REST의 특징**
 - 자원(RESOURCE) - URI
 - 행위(Verb) - HTTP METHOD
